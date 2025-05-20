@@ -1,0 +1,8 @@
+PROMPT NAME: [Descriptive title]
+VERSION: [Version number]
+PLATFORM: [ChatGPT/Claude/Gemini]
+USE CASE: [What it’s designed to do]
+PROMPT TEXT:
+[The full prompt]
+NOTES:
+[Performance observations, tips for modification]
